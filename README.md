@@ -4,7 +4,7 @@ This repo tries to implement some of the Azure AD OAuth2.0 flows in Go. There ar
 
 So it would be a nice addition for Gophers to tryout the same in Go and probably later build a MSAL for Go :) 
 
-Currently, the project is in-progress and just finished two **prof-of-concepts** :
+Currently, the project is in-progress and just finished two **proof-of-concepts** :
 
 *   [OAuth2.0 authorization code flow](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-auth-code-flow). 
 
